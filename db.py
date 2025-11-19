@@ -43,4 +43,4 @@ def find_light(resized_img,binary_img):
             return resized_img,rects
         
         def is_close(rect1,rect2,light_angle_tol,line_angle_tol,height_tol,cy_tol):
-            
+            pass
